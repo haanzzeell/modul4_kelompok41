@@ -1,0 +1,13 @@
+D:\MATER KULIAH\PRAKTIKUM DKP\modul4_kelompok41\Tugas_Modul4_Kel41\bin\Debug\netcoreapp3.1\Tugas_Modul4_Kel41.exe
+D:\MATER KULIAH\PRAKTIKUM DKP\modul4_kelompok41\Tugas_Modul4_Kel41\bin\Debug\netcoreapp3.1\Tugas_Modul4_Kel41.deps.json
+D:\MATER KULIAH\PRAKTIKUM DKP\modul4_kelompok41\Tugas_Modul4_Kel41\bin\Debug\netcoreapp3.1\Tugas_Modul4_Kel41.runtimeconfig.json
+D:\MATER KULIAH\PRAKTIKUM DKP\modul4_kelompok41\Tugas_Modul4_Kel41\bin\Debug\netcoreapp3.1\Tugas_Modul4_Kel41.runtimeconfig.dev.json
+D:\MATER KULIAH\PRAKTIKUM DKP\modul4_kelompok41\Tugas_Modul4_Kel41\bin\Debug\netcoreapp3.1\Tugas_Modul4_Kel41.dll
+D:\MATER KULIAH\PRAKTIKUM DKP\modul4_kelompok41\Tugas_Modul4_Kel41\bin\Debug\netcoreapp3.1\Tugas_Modul4_Kel41.pdb
+D:\MATER KULIAH\PRAKTIKUM DKP\modul4_kelompok41\Tugas_Modul4_Kel41\obj\Debug\netcoreapp3.1\Tugas_Modul4_Kel41.csprojAssemblyReference.cache
+D:\MATER KULIAH\PRAKTIKUM DKP\modul4_kelompok41\Tugas_Modul4_Kel41\obj\Debug\netcoreapp3.1\Tugas_Modul4_Kel41.csproj.CoreCompileInputs.cache
+D:\MATER KULIAH\PRAKTIKUM DKP\modul4_kelompok41\Tugas_Modul4_Kel41\obj\Debug\netcoreapp3.1\Tugas_Modul4_Kel41.AssemblyInfoInputs.cache
+D:\MATER KULIAH\PRAKTIKUM DKP\modul4_kelompok41\Tugas_Modul4_Kel41\obj\Debug\netcoreapp3.1\Tugas_Modul4_Kel41.AssemblyInfo.cs
+D:\MATER KULIAH\PRAKTIKUM DKP\modul4_kelompok41\Tugas_Modul4_Kel41\obj\Debug\netcoreapp3.1\Tugas_Modul4_Kel41.dll
+D:\MATER KULIAH\PRAKTIKUM DKP\modul4_kelompok41\Tugas_Modul4_Kel41\obj\Debug\netcoreapp3.1\Tugas_Modul4_Kel41.pdb
+D:\MATER KULIAH\PRAKTIKUM DKP\modul4_kelompok41\Tugas_Modul4_Kel41\obj\Debug\netcoreapp3.1\Tugas_Modul4_Kel41.genruntimeconfig.cache
